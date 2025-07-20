@@ -1,6 +1,6 @@
 # QA Internship Task - Amrutam
 
-This repository contains my bug report submission for the QA Internship assignment provided by Amrutam.
+This repository contains my bug report submission for the QA  provided by Amrutam.
 
 ## 📄 File Included
 - `Amrutam_QA_Bug_Report_NitinGoley.docx`
